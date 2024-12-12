@@ -1,6 +1,6 @@
 spring:
   application:
-    name: prod
+    name: Config-Prod
   output:
     ansi:
       enabled: ALWAYS
