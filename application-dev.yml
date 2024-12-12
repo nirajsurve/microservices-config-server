@@ -1,6 +1,6 @@
 spring:
   application:
-    name: dev
+    name: Config-Dev
   output:
     ansi:
       enabled: ALWAYS
