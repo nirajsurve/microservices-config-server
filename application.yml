@@ -8,6 +8,8 @@ eureka:
       defaultZone: http://localhost:8761/eureka
 
 spring:
+  application:
+    name: Config-Default
   output:
     ansi:
       enabled: ALWAYS
